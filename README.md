@@ -3,10 +3,6 @@
   Olá, eu sou Luis Guilherme 👋
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9E75¢er=true&width=500&lines=Analista+de+Dados+em+formação;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Transformando+dados+em+decisões" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🧭 Sobre mim
