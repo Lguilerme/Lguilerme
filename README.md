@@ -36,6 +36,11 @@
 
 ## 📂 Projetos em Destaque
 
+### 📊 [Análise de Vendas Empresarial](https://github.com/Lguilerme/AnaliseVendasEmpresarial)
+Análise exploratória completa de um dataset de vendas fictício com Python, Pandas, NumPy e Matplotlib.
+Inclui limpeza e padronização de dados, segmentação de clientes (VIP / Não VIP), análise temporal
+e mais de 10 visualizações — barras, histogramas, boxplots, pizza e dispersão.
+
 ### 📊 [Análise de Dados com Python](https://github.com/Lguilerme/Treinamento-Python)
 Análises exploratórias com **Pandas, NumPy, Matplotlib e Seaborn** — incluindo limpeza de dados,
 transformações e geração de gráficos (barras, colunas, BoxPlot, pizza) para suporte à tomada de decisão.
